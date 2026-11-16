@@ -1,2 +1,2 @@
-print('Hello, version 1.0.0')
-print('New feature: logging enabled')
+def start_app():
+    print('App starting with new API')
