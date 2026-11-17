@@ -1,7 +1,5 @@
 # Release Notes
 
-## v2.1.0 (François) – Added a sample feature
-
 ## v2.0.0 (Breaking release)
 - Refactored main application to use the start_app() function.
 - WARNING: breaking API change. Code that calls the old script directly must be updated.
